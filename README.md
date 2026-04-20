@@ -47,7 +47,7 @@ Prototyping for Bucket Construction App
    ```
 2. Enter the following in your web browser search bar:
    ```
-   http://localhost:8080
+   http://localhost:8000
    ```  
    
 **This should install all the necessary packages to run the basic FastAPI Framework for Bucket.**
